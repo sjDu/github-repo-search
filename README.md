@@ -4,6 +4,7 @@ A small app which can search github repositories by query and display them as a 
 
 - codesandbox: https://codesandbox.io/s/githubrepolist-m7uqd
 - sample page: https://m7uqd.csb.app/
+- github: https://github.com/sjDu/github-repo-search
 
 This project only uses `create-react-app` and `styled-component`.
 
