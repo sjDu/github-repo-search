@@ -3,12 +3,25 @@
 A small app which can search github repositories by query and display them as a item list.
 
 - codesandbox: https://codesandbox.io/s/githubrepolist-m7uqd
-- sample page: https://m7uqd.csb.app/
+- deploy on nelify: https://romantic-hoover-ad58e7.netlify.com/
 - github: https://github.com/sjDu/github-repo-search
 
 This project only uses `create-react-app` and `styled-component`.
 
 This project is built in React Hooks without using any class component which makes me learned a lot for the `useEffect` technique. The React Hook is awesome for seperating different logic parts.
+
+## How to use
+To develop:
+```
+npm start
+```
+
+To build
+```
+npm run build
+```
+
+Just like `create-react-app`.
 
 ## Features
 
