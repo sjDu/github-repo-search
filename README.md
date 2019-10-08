@@ -25,7 +25,7 @@ Just like `create-react-app`.
 
 ## Features
 
-- Auto detect search: type you query in search box and wait 1 second will trigger the request.
+- Auto detect search: type your query in search box and wait 1 second will trigger the request.
 - Waiting effect(dotted border) for Auto detect search
 - Click "enter" will also trigger a request and interrupt the wait effect for Auto detect search.
 - Clear button to clear current query string
